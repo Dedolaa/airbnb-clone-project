@@ -1,7 +1,7 @@
 # airbnb-clone-project
 # This project is tailored to enhance my expertise in modern software development practices.
 
-Team Role
+Team Roles
  Backend Developer: Identify and describe core features of the application, focusing on their relevance to the user experience and business logic.
 Database Administrator: Plan and document a relational database structure with entities, attributes, and relationships that mirror real-world requirements.
 
