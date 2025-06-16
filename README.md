@@ -1,11 +1,11 @@
 # airbnb-clone-project
 # This project is tailored to enhance my expertise in modern software development practices.
 
-TEAM ROLES
+Team Role
  Backend Developer: Identify and describe core features of the application, focusing on their relevance to the user experience and business logic.
 Database Administrator: Plan and document a relational database structure with entities, attributes, and relationships that mirror real-world requirements.
 
-TECHNOLOGY STACK
+Technology Stack
 Django: a web framework for building RESTful APIs
 PostgreSQL: Relational databases using SQL
 GraphQL: Relational databases using SQL
@@ -18,19 +18,19 @@ Python: Backend programming language
 REST API: Define how frontend communicates with backend
 GITHUB: Version control to track and manage code changes
 
-DATABASE DESIGN
+Database Design
 Users, 
 Properties 
 Bookings 
 Reviews
 Payments
 
-FEATURE BREAKDOWN
+Feature Breakdown
 User management
 Property management
 Booking system
 
-API SECURITY
+API Security
 Authentication
 Authorization
 Rate limiting
@@ -39,6 +39,6 @@ Why it is crucial?
 Protecting user data
 Securing payments
 
-CI/CD PIPELINES
+CI/CD Pipeline
 Automate testing, integration, and deployment
 Tools are: GitHub Actions, Docker, Azure, AWS, Jenkins
