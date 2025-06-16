@@ -1,11 +1,11 @@
 # airbnb-clone-project
 # This project is tailored to enhance my expertise in modern software development practices.
 
-# TEAM ROLES AND RESPONSIBILITY
+# TEAM ROLES
  Backend Developer: Identify and describe core features of the application, focusing on their relevance to the user experience and business logic.
 Database Administrator: Plan and document a relational database structure with entities, attributes, and relationships that mirror real-world requirements.
 
-# TECHNOLOGY STACK AND PURPOSE
+# TECHNOLOGY STACK
 Django: a web framework for building RESTful APIs
 PostgreSQL: Relational databases using SQL
 GraphQL: Relational databases using SQL
